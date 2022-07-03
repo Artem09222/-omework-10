@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100vh;
+    background-image: url("robert-lukeman-_RBcxo9AU-U-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.content {
+     margin: auto;
+     color: black;
+     width: 450px;
+     text-align: center;
+     padding-top: 120px;
+     margin-bottom: 24px;
+     font-family: 'Gentium Book Plus', serif;
+}
+
+.big title {
+     margin-bottom: 24px;
+     font-size: 100px;
+     font-family: 'Gulzar', serif;
+}
+
+.button {
+     text-decoration: none;
+     background-color: #86BD6C;
+     display: block;
+     color: yellow;
+     border-radius: 40px;
+     padding-top: 12px;
+     padding-bottom: 12px;
+     margin: auto;
+     width: 100px;
+}
+
+.button:hover {
+    background-color: #83a075;
+}
